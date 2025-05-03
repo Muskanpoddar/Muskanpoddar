@@ -1,13 +1,9 @@
-👋 Hi there! I'm Muskan Poddar, a passionate learner diving into the world of web development and fascinated by the endless possibilities of machine learning. 🌐💻
+👋 Hi there! I'm Muskan Poddar, a passionate and driven developer with a strong interest in building intuitive, high-performing mobile applications using Flutter.
 
-🔍 Currently, I'm exploring the intricacies of web development, sharpening my skills in HTML, CSS, and JavaScript to craft beautiful and functional web applications. From frontend design to backend functionality, I'm dedicated to mastering every aspect of the development process.
+🌟 I specialize in crafting user-friendly interfaces through UI/UX design, ensuring every app I build not only functions well but also delivers a seamless and engaging user experience. From wireframes to production-ready apps, I enjoy bringing ideas to life with thoughtful design and clean code.
 
-🤖 On the side, I'm delving into the exciting realm of machine learning, particularly focusing on Python for its versatility and robust libraries like TensorFlow and scikit-learn. Whether it's building predictive models or diving into neural networks, I'm eager to leverage the power of AI to solve real-world problems.
+💻 I also have a solid foundation in problem-solving using Java, which strengthens my ability to write logical, efficient, and maintainable code across different platforms.
 
-💡 Additionally, I have a keen interest in Java languages, continually expanding my knowledge to tackle diverse challenges and broaden my skill set.
+🧠 Beyond technical skills, I bring strong leadership and communication abilities, with a collaborative mindset that helps teams work effectively toward shared goals. I'm always open to learning, improving, and contributing wherever possible.
 
-📚 Let's connect and learn together! Feel free to reach out for collaboration opportunities, discussions on tech trends, or to share resources and insights. Together, we can push the boundaries of what's possible in the world of technology. 🚀
-
-
-
-
+🚀 I'm excited about opportunities to grow, build meaningful products, and work with like-minded individuals in the tech space.
