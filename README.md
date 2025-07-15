@@ -1,30 +1,34 @@
-Muskan Poddar | Flutter Developer 🚀
+## **Muskan Poddar** | *Flutter Developer 🚀*
 
-Building intuitive, high-performance mobile apps with Flutter.
+**Building seamless, high-performance mobile apps.**
+**Design-driven. Code-focused. Impact-oriented.**
 
-💡 What I Do:
+---
 
- Craft seamless UI/UX experiences—from wireframes to production.
+### **What I Do**
 
- Develop scalable, efficient apps with clean, maintainable code.
+* **Mobile Development** — Flutter & Dart
+* **UI/UX Crafting** — From wireframes to delightful interfaces
+* **Problem Solving** — Java for backend logic & cross-platform solutions
+* **Collaboration** — Teamwork, leadership & continuous learning
 
- Solve problems with Java, strengthening backend logic and cross-platform development.
+---
 
-   
-🛠️ Core Skills:
+### **Skills**
 
- Flutter & Dart – Mobile app development
- 
- UI/UX Design – Wireframing, Prototyping, User-centric Design
+`Flutter` `Dart` `Java` `UI/UX Design` `Clean Code` `python`
 
- Java – Logical programming & backend solutions
+---
 
- Team Collaboration – Leadership, communication, and teamwork
-  
-🌱 Growth Mindset:
+### **Mindset**
 
-Always learning. Always building. Always collaborating.
+**Build. Learn. Collaborate. Repeat.**
 
-📬 Let's Connect:
+---
 
-I'm open to exciting collaborations, impactful projects, and opportunities to grow together.
+### **Let’s Connect**
+
+Open to meaningful projects and impactful collaborations.
+
+---
+
