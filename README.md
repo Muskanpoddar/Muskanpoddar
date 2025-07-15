@@ -12,6 +12,7 @@ Building intuitive, high-performance mobile apps with Flutter.
 
    
 🛠️ Core Skills:
+
  Flutter & Dart – Mobile app development
  
  UI/UX Design – Wireframing, Prototyping, User-centric Design
@@ -21,7 +22,9 @@ Building intuitive, high-performance mobile apps with Flutter.
  Team Collaboration – Leadership, communication, and teamwork
   
 🌱 Growth Mindset:
+
 Always learning. Always building. Always collaborating.
 
 📬 Let's Connect:
+
 I'm open to exciting collaborations, impactful projects, and opportunities to grow together.
