@@ -16,7 +16,7 @@
 
 ### **Skills**
 
-`Flutter` `Dart` `Java` `UI/UX Design` `Clean Code` `python`
+`Flutter` `Dart` `Java` `UI/UX Design` `Clean Code` `python` `C++` `Kotlin`
 
 ---
 
