@@ -1,154 +1,157 @@
-# Hey, I'm Muskan Poddar! 👋
+# ✦ Hey, I'm Muskan Poddar!
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+%26+Mobile+Developer;Flutter+%7C+React+%7C+TypeScript;Full-Stack+Enthusiast;Building+AI-Powered+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=27&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Web+%26+Mobile+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8;Building+Things+That+Matter+%F0%9F%9A%80;Design.+Develop.+Deliver.+%F0%9F%8C%B1" alt="Animated introduction"/>
 
-  <br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Muskanpoddar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+**I turn ideas into experiences people love to use.**
 
-  <br/><br/>
+From intuitive interfaces to intelligent applications,  
+I enjoy building products that bring design, technology and purpose together.
 
-  **I build digital experiences that combine thoughtful design, clean code, and meaningful functionality.**
+<br/>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muskanpoddar)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanpoddar.dev@gmail.com)
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:muskanpoddar.dev@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Muskanpoddar&style=for-the-badge&color=A78BFA&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ✧ A Little About Me
 
-- 🎓 B.Tech Computer Science student at Amrita Vishwa Vidyapeetham.
-- 💻 Interested in frontend, mobile and full-stack development.
-- 🚀 Building applications with React, TypeScript and Flutter.
-- 🤖 Exploring AI integration and intelligent application development.
-- 🎨 Passionate about UI/UX and creating intuitive user experiences.
-- 🌱 Always learning, experimenting and building something new.
+```yaml
+name: Muskan Poddar
+role: Web & Mobile Developer
+education: B.Tech Computer Science
+university: Amrita Vishwa Vidyapeetham
 
----
+interests:
+  - Building web & mobile applications
+  - AI-powered product development
+  - Creative UI/UX experiences
+  - Solving real-world problems
 
-## 🛠️ Tech Stack
+currently:
+  - Building meaningful digital products
+  - Exploring new technologies
+  - Turning ideas into reality
 
-<div align="center">
+mindset: "Stay curious. Keep building."
+```
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,dart,java,python,cpp" />
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## ✧ Things I Love Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 TruthLoop
+### 🌐 Web Experiences
 
-AI-powered misinformation literacy platform.
-
-- Interactive claim voting
-- Gamified leaderboards
-- Real-time updates using SSE
-- AI-powered misinformation analysis
-
-**Stack:** React, TypeScript, TanStack Query, Express, PostgreSQL
-
-[View Repository →](https://github.com/Muskanpoddar/Truthloop)
+Creating engaging web applications with intuitive interfaces, smooth interactions and thoughtful user experiences.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ TapGuard
+### 📱 Mobile Applications
 
-AI-powered personal safety application.
-
-- Multi-modal risk detection
-- On-device machine learning
-- QR/NFC contact pairing
-- SOS alerts and live location sharing
-
-**Stack:** Flutter, Dart, TFLite, Firebase
+Building cross-platform mobile experiences focused on usability, performance and real-world impact.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 GrowMe
+### 🤖 AI-Powered Products
 
-Social goal tracking and habit-building application.
-
-- Daily goal tracking
-- Progress monitoring
-- Community interactions
-- Firebase authentication
-
-**Stack:** Flutter, Dart, Firebase
+Exploring intelligent applications that combine AI, automation and practical problem-solving.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 More Coming Soon
+### 🎨 Design & Creativity
 
-Always exploring new ideas, building projects and learning new technologies.
+Transforming ideas into clean, accessible and visually engaging digital experiences.
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GitHub Statistics
+## ✧ My Creative Toolkit
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muskanpoddar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+**Languages**
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanpoddar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,java,python,cpp" />
 
-  <br/>
+**Web & Mobile**
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=Muskanpoddar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase" />
+
+**Tools I Work With**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 
 </div>
 
----
-
-## 🐍 Contribution Journey
+## ✧ A Few Things I've Built
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Muskanpoddar/Muskanpoddar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+<a href="https://github.com/Muskanpoddar/Truthloop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskanpoddar&repo=Truthloop&theme=tokyonight&hide_border=true" alt="TruthLoop"/>
+</a>
 
 </div>
 
----
+| Project | What it does |
+|:--|:--|
+| 🔍 **TruthLoop** | Making misinformation literacy interactive through AI-powered analysis, community discussions and gamification. |
+| 🛡️ **TapGuard** | An intelligent personal safety application with real-time risk assessment and emergency features. |
+| 🌱 **GrowMe** | A social goal-tracking experience that makes personal growth more engaging and collaborative. |
+
+## ✧ My GitHub Universe
 
 <div align="center">
 
-### ✨ Build. Learn. Collaborate. Repeat.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muskanpoddar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-**Thanks for visiting my profile!**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanpoddar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-⭐ Feel free to explore my repositories and connect with me.
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Muskanpoddar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## ✧ The Journey Never Stops
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Dream+it.+Design+it.+Build+it.;Curiosity+fuels+creativity.;Always+building+what's+next." alt="Closing animation"/>
+
+**Build with purpose. Create with passion. Keep evolving.**
+
+<br/>
+
+*Thanks for stopping by! Let's build something amazing.*
 
 </div>
