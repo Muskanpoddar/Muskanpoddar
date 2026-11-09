@@ -31,27 +31,6 @@ I enjoy building products that bring design, technology and purpose together.
 
 ---
 
-## ✧ A Little About Me
-
-```yaml
-name: Muskan Poddar
-role: Web & Mobile Developer
-education: B.Tech Computer Science
-
-interests:
-  - Building web & mobile applications
-  - AI-powered product development
-  - Creative UI/UX experiences
-  - Solving real-world problems
-
-currently:
-  - Building meaningful digital products
-  - Exploring new technologies
-  - Turning ideas into reality
-
-mindset: "Stay curious. Keep building."
-```
-
 ## ✧ Things I Love Building
 
 <table>
@@ -126,18 +105,6 @@ Transforming ideas into clean, accessible and visually engaging digital experien
 | 🔍 **TruthLoop** | Making misinformation literacy interactive through AI-powered analysis, community discussions and gamification. |
 | 🛡️ **TapGuard** | An intelligent personal safety application with real-time risk assessment and emergency features. |
 | 🌱 **GrowMe** | A social goal-tracking experience that makes personal growth more engaging and collaborative. |
-
-## ✧ My GitHub Universe
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muskanpoddar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanpoddar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Muskanpoddar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
