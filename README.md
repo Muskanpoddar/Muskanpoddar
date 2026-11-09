@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=27&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Web+%26+Mobile+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8;Building+Things+That+Matter+%F0%9F%9A%80;Design.+Develop.+Deliver.+%F0%9F%8C%B1" alt="Animated introduction"/>
 
-<br/>
+<br/> 
 
 **I turn ideas into experiences people love to use.**
 
