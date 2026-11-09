@@ -13,10 +13,10 @@ I enjoy building products that bring design, technology and purpose together.
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://muskanpoddar.com.np/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/muskan-poddar/">
   <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:muskanpoddar.dev@gmail.com">
@@ -37,7 +37,6 @@ I enjoy building products that bring design, technology and purpose together.
 name: Muskan Poddar
 role: Web & Mobile Developer
 education: B.Tech Computer Science
-university: Amrita Vishwa Vidyapeetham
 
 interests:
   - Building web & mobile applications
